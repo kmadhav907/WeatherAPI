@@ -1,0 +1,26 @@
+h2 {
+  padding-left: 20px;
+
+  padding: 20px;
+}
+.weatherText {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Ranchers', cursive;
+  font-family: sans-serif;
+}
+
+#weatherForm {
+  margin-left: 60px;
+}
+
+#weatherSubmit {
+  color: white;
+  background-color: #fa8072;
+  padding: 5px 20px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+#header {
+  padding-right: 40px;
+}
